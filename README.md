@@ -1,5 +1,3 @@
-# ecs-service-cpu-mem-updater
-
 ---
 ​
 # ECS Service CPU/Memory Updater
